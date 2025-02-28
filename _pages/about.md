@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently a fourth-year Ph.D. student and Research Assistant at the National University of Singapore under the guidance of Professor Dong Jin Song. I earned my Bachelor’s degree in Computer Science from the National University of Singapore. My research is centered on Sports Analytics, a multi-disciplinary research field, where I employ Probabilistic Reasoning, Computer Vision, and Machine Learning for in-depth sports strategy analysis. My work focuses on developing Markov Decision Process (MDP) models for tennis strategy analysis, aiding professional players in pre-match analysis with remarkable success against top competitors. Additionally, my work involves the use of advanced video analytics to automatically extract and understand fast, frequent, and fine-grained event sequences from sports videos, providing intricate match insights. My analytical methodologies have been applied across multiple sports, including tennis (singles and doubles), badminton, basketball, American football, etc.
 
 A data-driven personal website
 ======
