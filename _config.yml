@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/files/zhaoyu.JPG"
+  avatar           : "profile.png"
   name             : "Liu Zhaoyu"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD at NUS"
@@ -32,48 +32,48 @@ author:
   email            : "liuzy@nus.edu.sg" 
 
   # Academic websites
-  # arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=oAl6cMIAAAAJ&hl"
-  # impactstory      : # URL
-  # orcid            : "http://orcid.org/yourorcidurl"
-  # semantic         : # URL
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  # researchgate     : # URL
-  # scopus           : # URL
+  impactstory      : # URL
+  orcid            : "http://orcid.org/yourorcidurl"
+  semantic         : # URL
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : # URL
+  scopus           : # URL
 
   # Repositories and software development
-  # bitbucket        : # Username - Update with your username on the site
-  # codepen          : # Username
-  # dribbble         : # Username
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
   github           : "LZYAndy"
-  # kaggle           : # Username  
-  # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  # bluesky          : "bsky.app" # Replace this with you Bluesky username
-  # facebook         : # Username
-  # flickr           : # Username
-  # foursquare       : # Username
-  # goodreads        : # Username
-  # google_plus      : # Username
-  # keybase          : # Username
-  # instagram        : # Username
-  # lastfm           : # Username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
   linkedin         : zhaoyu-liu-960ab4179
-  # mastodon         : # URL
-  # medium           : # URL
-  # pinterest        : # Username
-  # soundcloud       : # Username
-  # steam            : # Username
-  # telegram         : # URL
-  # tumblr           : # Username
-  # twitter          : # Username for X / Twitter
-  # vine             : # Username
-  # weibo            : # Username
-  # wikipedia        : # Username
-  # xing             : # Username
-  # youtube          : # Username
-  # zhihu            : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
