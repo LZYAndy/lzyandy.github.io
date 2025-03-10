@@ -18,10 +18,20 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 
 ## 📝 Selected Publications
+
+<div style="display: flex; align-items: center;">
+    <img src="/images/vid2events.png" alt="Paper Image" width="300px" style="margin-right: 15px; border-radius: 5px;">
+    <div>
+        <strong>Zhaoyu Liu</strong>, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
+        **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
+        🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
+    </div>
+</div>
+
+
 📖 **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
 _ICLR, 2025_  
-![Thumbnail](assets/images/paper1.jpg){: width="300px"}
 🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
 
 📖 **Analyzing the Formation Strategy in Tennis Doubles Game**  
