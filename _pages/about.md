@@ -18,56 +18,6 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 
 ## 📝 Selected Publications
-
-<div style="display: flex; align-items: center;">
-    <img src="/images/vid2events.png" alt="Paper Image" width="300px" style="margin-right: 15px; border-radius: 5px;">
-    <div>
-        <p><strong>📖 F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos</strong></p>
-        <p><i>Zhaoyu Liu</i>, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong.</p>
-        <p>ICLR, 2025</p>
-        <p>
-          🔗 <a href="https://openreview.net/pdf?id=vlg5WRKHxh">Paper</a> | 💻 <a href="https://github.com/F3Set/F3Set">Code</a>
-        </p>
-    </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<!--     <img src="/images/pipeline.png" alt="Paper Image" width="300px" style="margin-right: 15px; border-radius: 5px;"> -->
-    <div>
-        <p><strong>📖 Analyzing the Formation Strategy in Tennis Doubles Game</strong></p>
-        <p><i>Zhaoyu Liu</i>, Chen Dong, Jia Wei Chen, Alvin Min Jun Jiang, Guanzhou Chen, Aayan Faraz Shaikh, Tian Yu Dong, Chen Wang, Kan Jiang, Jin Song Dong.</p>
-        <p>SN Computer Science, 2024</p>
-        <p>
-          🔗 <a href="https://www.depintel.com/papers/icdm2023.pdf">Paper</a> | 💻 <a href="https://github.com/LZYAndy/Insight_Strategy">Code</a>
-        </p>
-    </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<!--     <img src="/images/pipeline.png" alt="Paper Image" width="300px" style="margin-right: 15px; border-radius: 5px;"> -->
-    <div>
-        <p><strong>📖 PCSP# Denotational Semantics with an Application in Sports Analytics</strong></p>
-        <p><i>Zhaoyu Liu</i>, Murong Ma, Kan Jiang, Zhe Hou, Ling Shi, Jin Song Dong.</p>
-        <p>The Application of Formal Methods, 2024</p>
-        <p>
-          🔗 <a href="https://www.depintel.com/papers/icdm2023.pdf">Paper</a> | 💻 <a href="https://github.com/LZYAndy/Insight_Strategy">Code</a>
-        </p>
-    </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-    <img src="/images/pipeline.png" alt="Paper Image" width="300px" style="margin-right: 15px; border-radius: 5px;">
-    <div>
-        <p><strong>📖 Insight analysis for tennis strategy and tactics</strong></p>
-        <p><i>Zhaoyu Liu</i>, Kan Jiang, Zhe Hou, Yun Lin, Jin Song Dong.</p>
-        <p>ICDM, 2022</p>
-        <p>
-          🔗 <a href="https://www.depintel.com/papers/icdm2023.pdf">Paper</a> | 💻 <a href="https://github.com/LZYAndy/Insight_Strategy">Code</a>
-        </p>
-    </div>
-</div>
-
-
 📖 **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
 _ICLR, 2025_  
