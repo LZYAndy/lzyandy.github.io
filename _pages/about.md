@@ -18,7 +18,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 
 ## 📝 Selected Publications
-📖 **$F^3Set$\: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
+📖 **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
 _ICLR, 2025_  
 🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
