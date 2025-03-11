@@ -59,22 +59,11 @@ redirect_from:
    **International Conference on Engineering of Complex Computer Systems (ICECCS), IEEE**. [📄 Paper](https://ieeexplore.ieee.org/abstract/document/9376206/)  
 
 ## Honors and Awards
-======
 - 🏆 **Research Achievement Award**, National University of Singapore (2024)
 - 🏆 **ISACE Best Paper Award**, International Sports Analytics Conference and Exhibition (ISACE) (2024)
 - 🏆 **Outstanding Computing Project (Final Year Project) Prize**, National University of Singapore (2021)
 - 🎓 **Science & Technology Undergraduate Scholarship**, National University of Singapore (2017-2021)
-
-## Skills
-======
-- **Machine Learning & Deep Learning**
-- **Probabilistic Reasoning**
-- **Computer Vision**
-- **Sports Analytics & Strategy Modeling**
-- **Python, PyTorch**
-- **Data Analytics & Visualization**
-  - Sub-skill: Tableau, Matplotlib, Pandas
-
+- 
 ## Teaching
 ======
 Teaching Assistant, CS4211 Formal Methods for Software Engineering, 2024
