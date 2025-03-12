@@ -65,7 +65,6 @@ redirect_from:
 - 🎓 **Science & Technology Undergraduate Scholarship**, National University of Singapore (2017-2021)
 - 
 ## Teaching
-======
 Teaching Assistant, CS4211 Formal Methods for Software Engineering, 2024
 
 ---
