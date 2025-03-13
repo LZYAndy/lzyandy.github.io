@@ -21,7 +21,7 @@ redirect_from:
 - **Software Engineer Intern**, NUS Artificial Intelligence Centre, Suzhou, China (May 2019 - Aug 2019)
 
 ### Selected Publications:
-1. **Liu, Z.**, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong. (2025).  
+1. **Liu, Z.**, Jiang, K., Ma, M., Hou, Z., Lin, Y., & Dong, J. S. (2025).  
    _F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos._  
    **International Conference on Learning Representations (ICLR), 2025**.  
    [📄 Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | [💻 Code](https://github.com/F3Set/F3Set/tree/main)  
