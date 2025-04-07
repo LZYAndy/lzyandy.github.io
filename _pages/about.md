@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 
 
 ## 🔥 News
-- **[2025.01]** Our paper [F3Set](https://openreview.net/pdf?id=vlg5WRKHxh) was accepted at ICLR 2025!
+- **[2025.01]** Our paper [F3Set](https://lzyandy.github.io/f3set-website/) was accepted at ICLR 2025!
 - **[2024.07]** We held the first **International Sports Analytics Conference and Exhibition ([ISACE](https://formal-analysis.com/isace/2024/))** in Paris, France one week before the Summar Olympics!
 - **[2024.03]** We have been shortlisted in the MIT Sloan Sports Analytics Conference [SSAC24](https://www.sloansportsconference.com/) *Startup Competition and Trade Show*!
 - **[2023.12]** One paper was accepted at ICDM 2023!
@@ -22,7 +22,7 @@ I am currently a fourth-year Ph.D. student and Research Assistant at the Nationa
 📖 **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
 _ICLR, 2025_  
-🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
+🌐[Project Page](https://lzyandy.github.io/f3set-website/) | 🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
 
 📖 **Analyzing the Formation Strategy in Tennis Doubles Game**  
 *Zhaoyu Liu*, Chen Dong, Jia Wei Chen, Alvin Min Jun Jiang, Guanzhou Chen, Aayan Faraz Shaikh, Tian Yu Dong, Chen Wang, Kan Jiang, Jin Song Dong  
