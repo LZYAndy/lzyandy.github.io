@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Liu Zhaoyu's Homepage"
+title                    : "Liu Zhaoyu"
 title_separator          : "-"
 name                     : &name "Liu Zhaoyu"
 description              : &description "personal description"
