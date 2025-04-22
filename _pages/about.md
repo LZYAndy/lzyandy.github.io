@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Liu Zhaoyu 刘照宇's Homepage"
+title: "Liu Zhaoyu's Homepage"
 author_profile: true
 redirect_from: 
   - /about/
