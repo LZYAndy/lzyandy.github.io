@@ -10,53 +10,60 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-- **Ph.D. in Computer Science**, National University of Singapore (Aug 2021 - Present)
+- **Ph.D. in Computer Science**, National University of Singapore (Aug 2021 - May 2025)
 - **B.Comp in Computer Science**, National University of Singapore (Aug 2017 - May 2021)
 
 ## Experience
-- **Research Assistant**, National University of Singapore (Aug 2021 - Present)
+- **Research Fellow**, National University of Singapore (Aug 2021 - Present)
+
+- **Research Assistant**, National University of Singapore (Aug 2021 - July 2025)
 
 - **Data Scientist Intern**, Television Content Analytics, Singapore (Aug 2020 - Aug 2021)
 
 - **Software Engineer Intern**, NUS Artificial Intelligence Centre, Suzhou, China (May 2019 - Aug 2019)
 
 ### Selected Publications:
-1. **Liu, Z.**, Jiang, K., Ma, M., Hou, Z., Lin, Y., & Dong, J. S. (2025).  
+- **Liu, Z.**, Jiang, K., Ma, M., Hou, Z., Lin, Y., & Dong, J. S. (2026).  
+   _Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation._  
+   **Association for the Advancement of Artificial Intelligence (AAAI), 2026**.  
+   📄 [Paper Link](https://arxiv.org/abs/2511.14186) | 💻 [Code](https://github.com/LZYAndy/UMEG-Net)  
+
+- **Liu, Z.**, Jiang, K., Ma, M., Hou, Z., Lin, Y., & Dong, J. S. (2025).  
    _F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos._  
    **International Conference on Learning Representations (ICLR), 2025**.  
-   🌐 [Project Page](https://lzyandy.github.io/f3set-website/) | 📄 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set/tree/main)  
+   🌐 [Project Page](https://lzyandy.github.io/f3set-website/) | 📄 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set/tree/main)
 
-2. **Liu, Z.**, Chen Dong, Jia Wei Chen, Alvin Min Jun Jiang, Guanzhou Chen, Aayan Faraz Shaikh, Tian Yu Dong, Chen Wang, Kan Jiang, Jin Song Dong. (2024).  
-   _Analyzing the Formation Strategy in Tennis Doubles Game._  
-   **SN Computer Science, 2024**.  
-   📄 [Paper Link](https://link.springer.com/article/10.1007/s42979-024-03598-3)  
-
-3. **Liu, Z.**, Jiang, K., Hou, Z., Lin, Y., & Dong, J. S. (2023, December).  
+- **Liu, Z.**, Jiang, K., Hou, Z., Lin, Y., & Dong, J. S. (2023).  
    _Insight Analysis for Tennis Strategy and Tactics._  
    **IEEE International Conference on Data Mining (ICDM)**.  
-   📄 [Paper Link](https://www.depintel.com/papers/icdm2023.pdf)  
+   📄 [Paper Link](https://www.depintel.com/papers/icdm2023.pdf)
 
-4. **Liu, Z.**, Ma, M., Jiang, K., Hou, Z., Shi, L., & Dong, J. S. (2024).  
+- **Liu, Z.**, Ma, M., Jiang, K., Hou, Z., Shi, L., & Dong, J. S. (2024).  
    _PCSP# Denotational Semantics with an Application in Sports Analytics._  
    **Springer Nature Switzerland**.  
    📄 [Paper Link](https://zhehou.github.io/papers/PCSP-Denotational-Semantics-with-an-Application-in-Sports-Analytics.pdf)  
 
-5. **Liu, Z.**, Dong, C., Wang, C., Dong, TY. (2024, July).  
+- **Liu, Z.**, Chen Dong, Jia Wei Chen, Alvin Min Jun Jiang, Guanzhou Chen, Aayan Faraz Shaikh, Tian Yu Dong, Chen Wang, Kan Jiang, Jin Song Dong. (2024).  
+   _Analyzing the Formation Strategy in Tennis Doubles Game._  
+   **SN Computer Science, 2024**.  
+   📄 [Paper Link](https://link.springer.com/article/10.1007/s42979-024-03598-3)  
+
+- **Liu, Z.**, Dong, C., Wang, C., Dong, TY. (2024, July).  
    _Exploring Team Strategy Dynamics in Tennis Doubles Matches._  
    **International Sports Analytics Conference and Exhibition (ISACE), LNCS Springer**.  
    📄 [Paper Link](https://link.springer.com/chapter/10.1007/978-3-031-69073-0_9)  
 
-6. **Liu, Z.**, Durrani, M., Leong, YX., Simon, JF., Tan, YF. (2024, July).  
+- **Liu, Z.**, Durrani, M., Leong, YX., Simon, JF., Tan, YF. (2024, July).  
    _Strategy Analysis in NFL Using Probabilistic Reasoning._  
    **International Sports Analytics Conference and Exhibition (ISACE), LNCS Springer**.
    📄 [Paper](https://link.springer.com/chapter/10.1007/978-3-031-69073-0_10)  
 
-8. **Dong, J. S.**, Jiang, K., Liu, Z., Dong, C., Hou, Z., Hundal, R. S., & Lin, Y. (2023, June).  
+- **Dong, J. S.**, Jiang, K., Liu, Z., Dong, C., Hou, Z., Hundal, R. S., & Lin, Y. (2023, June).  
    _Sports Analytics Using Probabilistic Model Checking and Deep Learning._  
    **International Conference on Engineering of Complex Computer Systems (ICECCS), IEEE**.
    📄 [Paper](https://www.researchgate.net/profile/Zhe-Hou-5/publication/375844836_Sports_Analytics_Using_Probabilistic_Model_Checking_and_Deep_Learning/links/65cab6701e1ec12eff8a6c1d/Sports-Analytics-Using-Probabilistic-Model-Checking-and-Deep-Learning.pdf)  
 
-10. **Jiang, K.**, Izadi, M., Liu, Z., & Dong, J. S. (2020, October).  
+- **Jiang, K.**, Izadi, M., Liu, Z., & Dong, J. S. (2020, October).  
    _Deep Learning Application in Broadcast Tennis Video Annotation._  
    **International Conference on Engineering of Complex Computer Systems (ICECCS), IEEE**.
     📄 [Paper](https://ieeexplore.ieee.org/abstract/document/9376206/)  
