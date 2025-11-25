@@ -25,17 +25,17 @@ I am currently a Research Fellow at the National University of Singapore under t
 ## 📝 Selected Publications
 📖 **Few-Shot Precise Event Spotting via Unified Multi-Entity Graph and Distillation**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
-_AAAI, 2026_  
+_AAAI, 2026 (CORE Rank A*, acceptance rate 17.6%)_  
 🔗 [Paper Link](https://arxiv.org/abs/2511.14186) | 💻 [Code](https://github.com/LZYAndy/UMEG-Net)
 
 📖 **F3Set: Towards Analyzing Fast, Frequent, and Fine-grained Events from Videos**  
 *Zhaoyu Liu*, Kan Jiang, Murong Ma, Zhe Hou, Yun Lin, Jin Song Dong  
-_ICLR, 2025_  
+_ICLR, 2025 (CORE Rank A*)_  
 🌐 [Project Page](https://lzyandy.github.io/f3set-website/) | 🔗 [Paper Link](https://openreview.net/pdf?id=vlg5WRKHxh) | 💻 [Code](https://github.com/F3Set/F3Set)
 
 📖 **Insight analysis for tennis strategy and tactics**  
 *Zhaoyu Liu*, Kan Jiang, Zhe Hou, Yun Lin, Jin Song Dong  
-_ICDM, 2023_  
+_ICDM, 2023 (CORE Rank A*, acceptance rate < 20%)_  
 🔗 [Paper Link](https://www.depintel.com/papers/icdm2023.pdf) | 💻 [Code](https://github.com/LZYAndy/Insight_Strategy)
 
 📖 **PCSP# Denotational Semantics with an Application in Sports Analytics**  
